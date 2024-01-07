@@ -12,16 +12,16 @@
 
 ### Languages
 [![TypeScript](https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript)](https://github.com/hazbob)
-[![JavaScript](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)](https://github.com/hazbob)
+[![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/hazbob)
 [![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/hazbob)
 
 
 ### Technologies & Frameworks
-[![Express](https://img.shields.io/badge/Spring%20Boot-black?style=for-the-badge&logo=spring-boot)](https://github.com/hazbob)
-[![React](https://img.shields.io/badge/Go%20Fiber-black?style=for-the-badge&logo=go)](https://github.com/hazbob)
-[![Prisma.io](https://img.shields.io/badge/Go%20Gin-black?style=for-the-badge&logo=go)](hhttps://github.com/hazbob)
+[![Express](https://img.shields.io/badge/express-black?style=for-the-badge&logo=express)](https://github.com/hazbob)
+[![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/hazbob)
+[![Prisma.io](https://img.shields.io/badge/prisma-black?style=for-the-badge&logo=prisma)](hhttps://github.com/hazbob)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=postgresql)](https://github.com/hazbob)
-[![Firebase](https://img.shields.io/badge/terraform-black?style=for-the-badge&logo=terraform)](https://github.com/hazbob)
+[![Firebase](https://img.shields.io/badge/firebase-black?style=for-the-badge&logo=firebase)](https://github.com/hazbob)
 
 
 <p align="center">
