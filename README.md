@@ -11,7 +11,7 @@
 </p>
 
 ### Languages
-[![TypeScript](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/hazbob)
+[![TypeScript](https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript)](https://github.com/hazbob)
 [![JavaScript](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)](https://github.com/hazbob)
 [![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/hazbob)
 
